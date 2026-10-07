@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Review record | pending |
+| 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Review record | [2b6b3be] |
 
 ---
 
@@ -53,3 +53,4 @@ Go — all mandatory criteria pass or are not applicable with a stated reason. V
 
 [MIL-002]: ../../milestones/mil-002-core.md
 [QC-PY-001]: ../../../framework/qc/qc-programming-python.md
+[2b6b3be]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/commit/2b6b3bee46e99d487792c79f722a79f9c921304d
