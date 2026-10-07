@@ -1,4 +1,4 @@
-# Runs on GitHub Actions and on Gitea Actions (Gitea also reads .github/workflows).
+# Runs on Gitea Actions (Gitea reads .gitea/workflows).
 name: CI
 
 on:
