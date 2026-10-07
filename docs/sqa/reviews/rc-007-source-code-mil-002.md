@@ -9,7 +9,8 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Review record | [2b6b3be] |
+| 2026-10-07 | Deprecated | Jens Tirsvad Nielsen | S01 | Review record | [2b6b3be] |
+| 2026-10-07 | Accepted | Jens Tirsvad Nielsen | S01 | Accepted by S01 (Go) | pending |
 
 ---
 
