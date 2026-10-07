@@ -10,7 +10,7 @@
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
 | 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Initial version | [c24f412] |
-| 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Added RC-007 (source code review) to the MIL-002 row | pending |
+| 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Added RC-007 (source code review) to the MIL-002 row | [26d87d0] |
 
 ---
 
@@ -49,3 +49,4 @@ No KPI, use case, user story or design artifact exists yet: the course supplies 
 [RC-006]: reviews/rc-006-project-plan.md
 [RC-007]: reviews/rc-007-source-code-mil-002.md
 [c24f412]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/commit/c24f41207fb15f39b0ad6501e1f3126d3bd9232e
+[26d87d0]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/commit/26d87d0d0ee63eaefa32e6a71142cfa5397361c7
