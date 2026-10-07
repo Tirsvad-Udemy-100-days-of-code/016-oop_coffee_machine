@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Initial version | pending |
+| 2026-10-07 | Proposed | Jens Tirsvad Nielsen | S01 | Initial version | [c24f412] |
 
 ---
 
@@ -46,3 +46,4 @@ No KPI, use case, user story or design artifact exists yet: the course supplies 
 [RC-004]: reviews/rc-004-mil-002.md
 [RC-005]: reviews/rc-005-mil-003.md
 [RC-006]: reviews/rc-006-project-plan.md
+[c24f412]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/commit/c24f41207fb15f39b0ad6501e1f3126d3bd9232e

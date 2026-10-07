@@ -11,8 +11,8 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-07 | Deprecated | Jens Tirsvad Nielsen | S01 | Initial version | pending |
-| 2026-10-07 | Accepted | Jens Tirsvad Nielsen | S01 | Fixed Cost-Benefit justification and added completion constraint<br>Accepted after RC-001 (Go) | pending |
+| 2026-10-07 | Deprecated | Jens Tirsvad Nielsen | S01 | Initial version | [c24f412] |
+| 2026-10-07 | Accepted | Jens Tirsvad Nielsen | S01 | Fixed Cost-Benefit justification and added completion constraint<br>Accepted after RC-001 (Go) | [c24f412] |
 
 ---
 
@@ -136,3 +136,4 @@ Proceed — the scope is small, has no runtime dependencies and gives a lasting 
 
 [SA-001]: ./stakeholder-analysis.md
 [PP-001]: ./project-plan.md
+[c24f412]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/commit/c24f41207fb15f39b0ad6501e1f3126d3bd9232e

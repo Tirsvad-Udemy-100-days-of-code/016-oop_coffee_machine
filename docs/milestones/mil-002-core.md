@@ -11,8 +11,8 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-07 | Deprecated | Jens Tirsvad Nielsen | S01 | Initial version | pending |
-| 2026-10-07 | Accepted | Jens Tirsvad Nielsen | S01 | Accepted after RC-004 (Go) | pending |
+| 2026-10-07 | Deprecated | Jens Tirsvad Nielsen | S01 | Initial version | [c24f412] |
+| 2026-10-07 | Accepted | Jens Tirsvad Nielsen | S01 | Accepted after RC-004 (Go) | [c24f412] |
 
 ---
 
@@ -74,3 +74,4 @@ Python modules `menu`, `coffee_maker`, `money_machine` and `main` under `src/cof
 [BC-001]: ../business-case.md
 [SA-001]: ../stakeholder-analysis.md
 [PP-001]: ../project-plan.md
+[c24f412]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/commit/c24f41207fb15f39b0ad6501e1f3126d3bd9232e
