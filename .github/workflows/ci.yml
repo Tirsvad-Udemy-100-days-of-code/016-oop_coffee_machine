@@ -1,0 +1,26 @@
+# Runs on GitHub Actions and on Gitea Actions (Gitea also reads .github/workflows).
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install
+        run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install --upgrade pip
+          .venv/bin/python -m pip install -e ".[dev]"
+      - name: Lint
+        run: .venv/bin/ruff check .
+      - name: Type check
+        run: .venv/bin/mypy
+      - name: Test
+        run: .venv/bin/python -m pytest
