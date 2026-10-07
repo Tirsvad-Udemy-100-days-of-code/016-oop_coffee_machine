@@ -31,9 +31,9 @@ required by [BC-001], with the communication cadence of [SA-001].
 
 | Gateway | Document | Window | Decision date | Owner | Stories | Main deliverable | Milestone |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Phase 1: Project Setup | [MIL-001] | 2026-10-07 to 2026-10-09 | 2026-10-09 | S01 | None | Skeleton, `pyproject.toml`, Doxyfile, CI | |
-| Phase 2: Coffee Machine Program | [MIL-002] | 2026-10-10 to 2026-10-14 | 2026-10-14 | S01 | None | Menu, CoffeeMaker, MoneyMachine, main loop, tests | |
-| Phase 3: Documentation and Publication | [MIL-003] | 2026-10-15 to 2026-10-16 | 2026-10-16 | S01 | None | README, Doxygen docs, repository description and topics | |
+| Phase 1: Project Setup | [MIL-001] | 2026-10-07 to 2026-10-09 | 2026-10-09 | S01 | None | Skeleton, `pyproject.toml`, Doxyfile, CI | [Milestone 49] |
+| Phase 2: Coffee Machine Program | [MIL-002] | 2026-10-10 to 2026-10-14 | 2026-10-14 | S01 | None | Menu, CoffeeMaker, MoneyMachine, main loop, tests | [Milestone 50] |
+| Phase 3: Documentation and Publication | [MIL-003] | 2026-10-15 to 2026-10-16 | 2026-10-16 | S01 | None | README, Doxygen docs, repository description and topics | [Milestone 51] |
 
 ## Timeline diagram
 
@@ -83,3 +83,6 @@ Project starts 2026-10-07
 [MIL-002]: ./milestones/mil-002-core.md
 [MIL-003]: ./milestones/mil-003-docs.md
 [c24f412]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/commit/c24f41207fb15f39b0ad6501e1f3126d3bd9232e
+[Milestone 49]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/milestone/49
+[Milestone 50]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/milestone/50
+[Milestone 51]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/016-oop_coffee_machine/milestone/51
