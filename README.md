@@ -121,10 +121,11 @@ mypy
 
 ## Continuous integration
 
-The workflow in `.github/workflows/ci.yml` runs on every push and pull request. It
-runs on GitHub Actions and on Gitea Actions. It creates a virtual environment on
-Python 3.13, upgrades `pip`, installs the project with the `dev` extra and runs
-`ruff check .`, `mypy` and `python -m pytest`.
+The workflow in `.gitea/workflows/ci.yml` runs on Gitea Actions on every push and
+pull request. It creates a virtual environment on Python 3.13, upgrades `pip`,
+installs the project with the `dev` extra and runs `ruff check .`, `mypy` and
+`python -m pytest`. GitHub does not read the `.gitea` folder, so a GitHub mirror
+does not run it.
 
 ## Build the source documentation
 
@@ -154,7 +155,7 @@ browser. The output folder is ignored by git.
 ├── docs/                 Project documents (business case, plan, milestones, reviews)
 ├── Doxyfile              Doxygen configuration
 ├── pyproject.toml        Project configuration
-└── .github/workflows/    Continuous integration
+└── .gitea/workflows/     Continuous integration
 ```
 
 ## License
